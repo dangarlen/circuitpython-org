@@ -48,3 +48,4 @@ Teensy 4.0 also can also be overclocked, well beyond 600 MHz!
 
 ## Purchase
 * [Adafruit](https://www.adafruit.com/product/4323)
+* [sparkfun](https://www.sparkfun.com/products/15583)
